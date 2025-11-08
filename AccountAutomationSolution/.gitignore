@@ -1,0 +1,34 @@
+﻿# Visual Studio files
+.vs/
+*/[Vv]s/
+
+# Build outputs
+bin/
+obj/
+[Bb]uild/
+
+# NuGet packages
+packages/
+
+# User files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Strong name key (sensitive)
+Key/
+*.snk
+*.pfx
+
+# Config files (may contain secrets)
+app.config
+*.config
+
+# Compiled assemblies
+*.dll
+*.pdb
+*.exe
+
+# Package management (can be regenerated)
+packages.config
